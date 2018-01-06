@@ -1,0 +1,31 @@
+{
+  "name": "depromeet-web",
+  "version": "1.0.0",
+  "description": "디프만 데이터 마이닝 자료를 웹 화면에서 열람할 수 있는 프론트엔드 패키지",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyukebox/depromeet-web.git"
+  },
+  "author": "Byeong Gyu Choi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gyukebox/depromeet-web/issues"
+  },
+  "homepage": "https://github.com/gyukebox/depromeet-web#readme",
+  "dependencies": {
+    "@types/react": "^16.0.34",
+    "@types/react-dom": "^16.0.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.4.1",
+    "source-map-loader": "^0.2.3",
+    "typescript": "^2.6.2"
+  }
+}
